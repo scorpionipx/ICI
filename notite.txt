@@ -1,0 +1,16 @@
+1. Eliminare offset
+	Edit - Select all - mean
+		S* = S - mean(S)
+		Transform - Waveform math
+		
+2.
+	Selectare contractii
+	
+	
+	
+	
+	
+6. Normalizare - interval [0, 1]
+
+frecventa de varf = unde vloarea este maxima
+frecventa medie = punctul unde este media
