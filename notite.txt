@@ -14,3 +14,6 @@
 
 frecventa de varf = unde vloarea este maxima
 frecventa medie = punctul unde este media
+
+
+Se utilizeaza semnalele cu ambele filtre active
